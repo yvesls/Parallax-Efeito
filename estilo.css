@@ -52,7 +52,7 @@
 
 
 		.conteudo {
-			color: #7F6898;
+			color: #474647;
 			background-color: rgb(255, 255, 255);
 			text-align: justify;
 			padding: 50px 80px;
@@ -61,7 +61,7 @@
 		}
 
 		.conteudo-titulo {
-			color: #4C07BD;
+			color: #000000;
 			text-transform: uppercase;
 			text-align: center;
 			padding-bottom: 10px;
